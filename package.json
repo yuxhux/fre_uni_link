@@ -5,6 +5,9 @@
   "repository": "https://github.com/modsoussi/SampleExpoWeb.git",
   "author": "Mohamed Soussi <mohameddsoussi@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "next build && next start -p $PORT"
+  },
   "dependencies": {
     "next": "^9.4.0",
     "react": "^16.13.1",
