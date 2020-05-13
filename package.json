@@ -1,0 +1,13 @@
+{
+  "name": "SampleExpoWeb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/modsoussi/SampleExpoWeb.git",
+  "author": "Mohamed Soussi <mohameddsoussi@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^9.4.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
