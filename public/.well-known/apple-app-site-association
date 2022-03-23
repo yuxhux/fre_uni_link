@@ -3,7 +3,19 @@
     "apps": [],
     "details": [
       {
-        "appID": "PFHXGV8F3E.com.modsoussi.samplexpo",
+        "appID": "94KV3E626L.com.mobi.SSOSample",
+        "paths": [
+          "/*"
+        ],
+        "components": [
+          {
+            "/": "/*",
+            "comment": "Match all routes"
+          }
+        ]
+      },
+      {
+        "appID": "94KV3E626L.com.mobi.SSOSampleSecondApp",
         "paths": [
           "/*"
         ],
