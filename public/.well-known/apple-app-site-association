@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "94KV3E626L.com.mobi.SSOSample",
+        "appID": "CS4X39SHV.com.mars.option1",
         "paths": [
           "/*"
         ],
@@ -15,7 +15,7 @@
         ]
       },
       {
-        "appID": "94KV3E626L.com.mobi.SSOSampleSecondApp",
+        "appID": "CS4X39SHV.com.mars.Option2",
         "paths": [
           "/*"
         ],
