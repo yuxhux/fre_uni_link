@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "CS4X39SHV.com.mars.option1",
+        "appID": "CS4X329SHV.com.mars.option1",
         "paths": [
           "/*"
         ],
@@ -15,7 +15,7 @@
         ]
       },
       {
-        "appID": "CS4X39SHV.com.mars.Option2",
+        "appID": "CS4X329SHV.com.mars.Option2",
         "paths": [
           "/*"
         ],
