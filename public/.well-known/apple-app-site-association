@@ -15,6 +15,18 @@
         ]
       },
       {
+        "appID": "CS4X329SHV.com.mobi.atbsso",
+        "paths": [
+          "/*"
+        ],
+        "components": [
+          {
+            "/": "/*",
+            "comment": "Match all routes"
+          }
+        ]
+      },
+      {
         "appID": "CS4X329SHV.com.mars.Option2",
         "paths": [
           "/*"
